@@ -88,7 +88,7 @@ json-server --watch data/custom-db.json
 ```
 
 ## Uso de start.js (5 min)
-
+****
 Para una configuración más avanzada, podemos usar un archivo JavaScript:
 
 1. Observa el archivo `start.js` incluido en esta carpeta
